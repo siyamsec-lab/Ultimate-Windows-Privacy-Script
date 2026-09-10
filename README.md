@@ -13,7 +13,9 @@ This tool disables AI features, telemetry, tracking, and unnecessary services to
 ✔ Disable Windows telemetry  
 ✔ Disable advertising tracking  
 ✔ Disable background apps  
-✔ Disable diagnostics tracking service  
+✔ Disable diagnostics tracking service 
+✔ Disable unwanted services
+✔ Performance tuning
 
 ## Installation
 
@@ -21,7 +23,7 @@ This tool disables AI features, telemetry, tracking, and unnecessary services to
 2. Run:
 
 powershell -ExecutionPolicy Bypass -File privacy.ps1
-
+ 
 ## Warning
 
 Use at your own risk. Some Windows features may stop working.
